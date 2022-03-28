@@ -12,7 +12,7 @@ Although I enjoyed working in Finance, management and the industry itself had be
 
 My specialties revolve around full-stack web development, HTML, CSS, JavaScript, Bootstrap, ReactJS, Express, Adobe Creative Suite (Photoshop, Illustrator, InDesign), design principles, sketch-up, and design layouts.
 
-A little more about me as a person. I have lived abroad in the Philippines for 2 years, where I learned how to speak Tagalog fluently. I am an Eagle Scout, swing dance instructor, artist, have played the guitar for over 20 years. I enjoy traveling, camping, hiking, swimming, racquetball, astronomy, aeronautics, history and am basically the epitome of nerd when it comes to board games, movies and cultural trivia. My goal in life is to become the best I can be and continuously work to improve myself in every area that I dedicate my time and energy to!
+A little more about me as a person. I have lived abroad in the Philippines for 2 years, where I learned how to speak Tagalog fluently. I am an Eagle Scout, swing dance instructor, artist, and have played the guitar for over 20 years. I enjoy traveling, camping, hiking, swimming, racquetball, astronomy, aeronautics, history and am basically the epitome of nerd when it comes to board games, movies and cultural trivia. My goal in life is to become the best I can be and continuously work to improve myself in every area that I dedicate my time and energy to!
 
 
 
