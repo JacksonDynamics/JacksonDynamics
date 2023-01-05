@@ -4,15 +4,11 @@
 # Hello! My name is Brendon.  👋🏼
 
 
-I am a graduate from the University of Oregon with a Bachelor's degree in Architecture, with a Minor in Business. After graduation, architectural job opportunities were not readily available, given the 2008 market crash, so I decided to change my career direction by moving into the financial industry.
+I am a graduate from the University of Oregon with a Bachelor's degree in Architectural Design & Structural Engineering, with a Minor in Business. My true passion has always been in technology and artistic development with computers. With the Pandemic hitting all sorts of businesses and most things moving to remote jobs, I decided to look at this as an opportunity to learn and grow by pursuing a career path of Computer Programming. I spent the entire year of 2021 immersing myself into an IT full-time coding program through an organization called Thinkful, where I was able to gain the skills necessary to be a Full Stack Web Developer. I now can proudly state that I am a graduate!
 
-I enjoyed the financial world and obtained employment with Fidelity Investments for 9 years. While employed I also obtained my Series 7, 63, & 66 licenses and worked in multiple specialty groups.
+My specialties revolve around full-stack web development: HTML, CSS, JavaScript, Bootstrap, Flexbox, Node.js, ReactJS, VS Code, PostgreSQL, and design layouts.
 
-Although I enjoyed working in Finance, management and the industry itself had begun to shift in a negative direction for me.  With the Pandemic hitting all sorts of businesses and most things moving to remote jobs, I saw this as an opportunity to once again pursue a different career path and dive straight in to learning Computer Programming. I spent the entire year of 2021 immersing myself into a full-time IT immersive program called Thinkful, where I was able to gain the skills necessary to be a Full Stack Web Developer. I now can proudly state that I am a graduate!
-
-My specialties revolve around full-stack web development, HTML, CSS, JavaScript, Bootstrap, ReactJS, Express, Adobe Creative Suite (Photoshop, Illustrator, InDesign), design principles, sketch-up, and design layouts.
-
-A little more about me as a person. I have lived abroad in the Philippines for 2 years, where I learned how to speak Tagalog fluently. I am an Eagle Scout, swing dance instructor, artist, and have played the guitar for over 20 years. I enjoy traveling, camping, hiking, swimming, racquetball, astronomy, aeronautics, history and am basically the epitome of nerd when it comes to board games, movies and cultural trivia. My goal in life is to become the best I can be and continuously work to improve myself in every area that I dedicate my time and energy to!
+In addition to my university education, I have also obtained multiple financial licenses, while working as a professional advisor for Fidelity Investments for 9 years; including the FINRA Series 7, 63 and 66 licenses. I was recognized for top performance in superior customer relations and drove consistent lead generation for new business for multiple organizations. Having backgrounds in these subjects is only some of the many benefits I wish to bring to any organization I am employed with.
 
 
 
