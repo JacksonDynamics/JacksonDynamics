@@ -8,7 +8,7 @@ I am a graduate from the University of Oregon with a Bachelor's degree in Archit
 
 My specialties revolve around full-stack web development: HTML, CSS, JavaScript, Bootstrap, Flexbox, Node.js, ReactJS, VS Code, PostgreSQL, and design layouts.
 
-In addition to my university education, I have also obtained multiple financial licenses, while working as a professional advisor for Fidelity Investments for 9 years; including the FINRA Series 7, 63 and 66 licenses. I was recognized for top performance in superior customer relations and drove consistent lead generation for new business for multiple organizations. Having backgrounds in these subjects is only some of the many benefits I wish to bring to any organization I am employed with.
+In addition to my university education, I have also obtained the FINRA Series 7, 63 and 66 licenses, while working as a professional advisor for Fidelity Investments for 9 years. I was recognized for top performance in superior customer relations and drove consistent lead generation for new business for multiple organizations. Having backgrounds in these subjects is only some of the many benefits I wish to bring to any organization I am employed with.
 
 
 
